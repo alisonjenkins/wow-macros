@@ -1,0 +1,3 @@
+#showtooltip
+
+/use [mod:shift,@mouseover,help][mod:shift]Power Word: Shield;[mod:ctrl,@mouseover,help][mod:ctrl]Heal;[mod:alt,@mouseover,help][mod:alt]Prayer of Mending;[@mouseover,help][]Penance;

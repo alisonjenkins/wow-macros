@@ -1,0 +1,2 @@
+#showtooltip
+/cast [spec:1,mod:shift]Soul Reaper; [spec:1,mod:alt] Army of the Dead; [spec:1] Outbreak;

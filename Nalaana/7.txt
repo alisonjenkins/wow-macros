@@ -1,0 +1,2 @@
+#showtooltip
+/cast [mod:shift] Fade; [spec:1,mod:ctrl] Raise Ally; [mod:alt] Leap of Faith; Anti-Magic Shell;

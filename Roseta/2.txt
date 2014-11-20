@@ -1,0 +1,3 @@
+#showtooltip
+/stopcasting
+/cast [mod:shift,spec:1] Penance; [mod:shift,spec:2] Shadow Word: Pain; [mod:alt,spec:1] Shadow Word: Pain; [mod:ctrl] Mass Dispel; [spec:1] Holy Fire; [spec:2] Devouring Plague;

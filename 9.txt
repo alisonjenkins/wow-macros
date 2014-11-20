@@ -1,0 +1,3 @@
+#showtooltip
+
+/cast [spec:2,mod:shift] Shadowform; Psychic Horror;

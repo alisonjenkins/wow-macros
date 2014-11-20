@@ -1,0 +1,2 @@
+#showtooltip
+/cast [spec:1] Frost Strike; [spec:2,nochanneling] Mind Flay;

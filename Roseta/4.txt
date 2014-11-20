@@ -1,0 +1,5 @@
+#showtooltip [mod:shift] Cascade; [mod:shift] Divine Star; [mod:shift] Halo; [nomod] Shadow Word: Death
+/use [mod:shift] Cascade;
+/use [mod:shift] Divine Star;
+/use [mod:shift] Halo;
+/use [mod:alt] !Fishing; Shadow Word: Death;

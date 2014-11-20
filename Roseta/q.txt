@@ -1,0 +1,2 @@
+#showtooltip
+/use [@mouseover,help,mod:shift][mod:shift]Purify;[mod:alt]Angelic Feather; [@mouserover, help][] Renew;

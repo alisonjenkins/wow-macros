@@ -1,0 +1,2 @@
+#showtooltip
+/cast [spec:1,mod:shift] Death Pact; [spec:1,mod:ctrl] Empower Rune Weapon; [spec:1,mod:alt] Icebound Fortitude; [spec:1] Blood Tap;

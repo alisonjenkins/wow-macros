@@ -1,0 +1,2 @@
+#showtooltip
+/cast [mod:shift,spec:1] Asphyxiate; [mod:ctrl,spec:1] Mind Freeze; [mod:alt,spec:1] Anti-Magic Zone; [mod:alt,spec:2] Silence; [spec:1] Obliterate; [spec:2] Vampiric Touch;

@@ -1,0 +1,2 @@
+#showtooltip
+/cast [mod:shift] Fade; [mod:ctrl] Resurrection; [mod:alt] Leap of Faith; Power Word: Shield;

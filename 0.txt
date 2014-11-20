@@ -1,0 +1,7 @@
+#showtooltip
+
+/cast [swimming,nomod] Abyssal Seahorse; [mod:ctrl] Traveler's Tundra Mammoth; [mod:shift] Levitate; [mod:alt] Ethereal Portal; [nomodifier] Azure Water Strider;
+
+/dismount [mounted]
+
+/leavevehicle

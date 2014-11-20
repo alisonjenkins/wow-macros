@@ -1,0 +1,2 @@
+#showtooltip
+/cast [mod:shift] Fear Ward; [mod:ctrl] Inner Will; [mod:alt] Vampric Embrace; Inner Fire; 

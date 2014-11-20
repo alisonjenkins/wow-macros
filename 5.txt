@@ -1,0 +1,3 @@
+#showtooltip
+
+/cast [mod:shift] Dispel Magic; [nochanneling] Mind Sear;

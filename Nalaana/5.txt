@@ -1,0 +1,2 @@
+#showtooltip
+/cast [spec:1,mod:alt] Death and Decay; [mod:shift,spec:1] Unholy Blight; [spec:1] Howling Blast;

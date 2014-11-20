@@ -1,0 +1,2 @@
+#showtooltip
+/cast [spec:1,mod:shift] Pestilence; [spec:1,mod:ctrl] Raise Dead; Death Coil;
