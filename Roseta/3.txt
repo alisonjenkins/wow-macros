@@ -1,2 +1,3 @@
 #showtooltip
+
 /cast [mod:ctrl,spec:1] Hymn of Hope; [mod:alt] Shadowfiend; [mod:shift,spec:1] Pain Suppression; [mod:shift,spec:2] Mind Spike; [spec:1] Archangel; [spec:2] Mind Blast;

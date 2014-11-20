@@ -1,2 +1,3 @@
 #showtooltip
-/cast [mod:shift] Fear Ward; [mod:ctrl] Inner Will; [mod:alt] Vampric Embrace; Inner Fire; 
+
+/cast [mod:shift] Fear Ward; [mod:ctrl] Inner Will; [mod:alt] Vampiric Embrace; Fishing; 

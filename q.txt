@@ -1,3 +1,0 @@
-#showtooltip
-
-/use [mod:shift] Mass Dispel;[mod:alt]Angelic Feather; [mod:ctrl] Power Infusion; [@mouserover, help][] Renew;

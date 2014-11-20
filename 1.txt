@@ -1,3 +1,0 @@
-#showtooltip
-
-/cast [mod:shift] Shackle Undead; [mod:ctrl] !Shoot; [mod:alt,spec:1] Power Word: Barrier; [mod:alt,spec:2] Silence; [spec:1] Smite; [spec:2] Vampiric Touch;

@@ -1,2 +1,0 @@
-#showtooltip
-/cast [mod:ctrl] Power Word: Fortitude; [mod:shift]Psyfiend; [mod:alt] Green Curry Fish; Survey;

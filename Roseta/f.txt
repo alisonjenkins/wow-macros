@@ -1,2 +1,3 @@
 #showtooltip
+
 /use [mod:shift,@mouseover,help][mod:shift]Flash Heal;[mod:ctrl,@mouseover,help][mod:ctrl]Greater Heal;[@mouseover,help,mod:alt][mod:alt]Binding Heal; [nochanneling]Prayer of Healing;
