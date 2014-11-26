@@ -1,9 +1,5 @@
-#showtooltip [mod:shift] Cascade; [mod:shift] Divine Star; [mod:shift] Halo; [mod:alt] Void Entropy; [nomod] Shadow Word: Death;
-
-/use [mod:shift] Cascade;
-
-/use [mod:shift] Divine Star;
-
-/use [mod:shift] Halo;
-
-/use [mod:alt] Void Entropy; Shadow Word: Death
+#showtooltip
+/use [mod:shift]Cascade
+/use [mod:shift]Divine Star
+/use [mod:shift]Halo
+/use [mod:alt]Void Entropy;Shadow Word: Death
