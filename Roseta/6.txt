@@ -1,2 +1,2 @@
 #showtooltip
-/cast [spec:1] Inner Focus; [spec:2,nochanneling] Mind Flay;
+/use [spec:1]Inner Focus;[spec:2,nochanneling]Mind Flay
