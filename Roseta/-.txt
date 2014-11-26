@@ -1,2 +1,2 @@
 #showtooltip
-/use [mod:shift]Fear Ward;[mod:ctrl]Inner Will;[mod:alt]Vampiric Embrace;Fishing
+/use [mod:shift]Fear Ward;[mod:ctrl]Garrison Hearthstone;[mod:alt]Vampiric Embrace;Fishing
