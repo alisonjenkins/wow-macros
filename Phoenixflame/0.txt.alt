@@ -1,0 +1,10 @@
+/run 
+if IsOutdoors() and not IsMounted()then 
+local g,z=GetRandomArgument,GetRealZoneText()
+CallCompanion("MOUNT",(z=="Kelp'thar Forest"or z=="Shimmering Expanse"or z=="Abyssal Depths"or z=="Vashj'ir")
+and IsSwimming()and not IsModifierKeyDown()
+and s or IsFlyableArea()and g(f1,f2,f3,f4,etc.)or g(g1,g2,g3,g4,etc.)
+
+
+/run 
+/dismount [mounted]

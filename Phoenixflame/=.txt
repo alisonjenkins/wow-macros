@@ -1,0 +1,2 @@
+#showtooltip
+/use [mod:ctrl]Power Word: Fortitude;[mod:alt]Gorgrond Mineral Water;[nomod]Survey

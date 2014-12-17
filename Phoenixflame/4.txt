@@ -1,0 +1,5 @@
+#showtooltip
+/use [mod:shift]Cascade
+/use [mod:shift]Divine Star
+/use [mod:shift]Halo
+/use [mod:alt]Void Entropy;Shadow Word: Death
