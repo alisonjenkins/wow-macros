@@ -1,2 +1,2 @@
 #showtooltip
-/use [mod:shift,spec:1]Penance;[mod:shift,spec:2]Shadow Word: Pain;[mod:alt,spec:1]Shadow Word: Pain;[mod:ctrl]Mass Dispel;[spec:1]Holy Fire;[spec:2]Devouring Plague
+/use [mod:shift,spec:1]Penance;[mod:shift,spec:2]Shadow Word: Pain;[mod:alt,spec:2]Nether Tempest;[mod:ctrl]Mass Dispel;[spec:1]Holy Fire;[spec:2]Arcane Missiles
