@@ -1,4 +1,4 @@
 #showtooltip
-/use [swimming,nomod]Abyssal Seahorse;[mod:ctrl]Traveler's Tundra Mammoth;[mod:shift]Levitate;[mod:alt]Ethereal Portal;[nomod,flyable]Azure Netherwing Drake;[nomod,noflyable]Azure Water Strider
+/use [swimming,nomod]Abyssal Seahorse;[mod:ctrl]Traveler's Tundra Mammoth;[mod:shift]Slow Fall;[mod:alt]Ethereal Portal;[nomod,flyable]Azure Netherwing Drake;[nomod,noflyable]Azure Water Strider
 /dismount [mounted]
 /leavevehicle
